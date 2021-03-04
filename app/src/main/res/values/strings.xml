@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LocalizationActivity</string>
+
+    <string name="TitleName">Say Yes To New Adventures.</string>
+    <string name="Text" tools:ignore="MissingTranslation">English</string>
+
+</resources>
